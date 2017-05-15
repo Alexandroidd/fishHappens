@@ -1,0 +1,40 @@
+#map {
+
+	width: 80%;
+	height: 400px;
+	background-color: yellow;
+	margin: 0 auto;
+}
+.chart {
+	height: 300px;
+}
+
+.profile {
+	width: 60px;
+	
+
+}
+h1{
+	text-align: center;
+}
+h3 {
+	display: inline;
+}
+li{
+	display: inline;	
+}
+
+.col-sm-4{
+	text-align: center;
+}
+
+ul{
+	margin-left: 10px;
+	padding:0;
+}
+.holder{
+	text-align: center;
+}
+body {
+	text-align: center;
+}
